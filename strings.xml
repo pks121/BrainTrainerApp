@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="start">Start</string>
+    <string name="counter">counter</string>
+    <string name="question">question</string>
+    <string name="_0_0">0/0</string>
+    <string name="ans1">ans1</string>
+    <string name="ans2">ans2</string>
+    <string name="ans3">ans3</string>
+    <string name="ans4">ans4</string>
+    <string name="restart">restart</string>
+</resources>
